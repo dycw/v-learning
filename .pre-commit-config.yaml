@@ -7,6 +7,10 @@ repos:
     rev: v2.4.1
     hooks:
       - id: prettier
+  - repo: https://github.com/dycw/pre-commit-hooks
+    rev: 0.2.46
+    hooks:
+      - id: v-fmt
   - repo: https://github.com/jumanjihouse/pre-commit-hooks
     rev: 2.1.5
     hooks:
