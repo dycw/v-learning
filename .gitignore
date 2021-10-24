@@ -1,0 +1,10 @@
+# source: https://gist.github.com/chichunchen/970a7e97c74a253a4503
+
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
